@@ -145,6 +145,15 @@ input {
 
 }
 
+h5 {
+    text-align: center;
+    padding-top: 2rem;
+    padding-bottom: 1rem;
+}
+a {
+    text-decoration: none;
+    color: darkblue;
+}
 
 .eachtask svg {
     text-align: right;
@@ -191,6 +200,10 @@ input {
 
     #yotask {
         display: none;
+    }
+    
+    h1 {
+        font-size: 60px;
     }
 
 
